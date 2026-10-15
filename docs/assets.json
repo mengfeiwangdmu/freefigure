@@ -1,1 +1,12 @@
-[]tumor cells 
+[{
+    "id": "图片2.tif",
+    "title": "tumor cells",
+    "title_en": "tumor",
+    "category": "细胞",
+    "description": "肿瘤细胞",
+    "description_en": "tumor cells",
+    "file": "assets/图片2.tif",
+    "format": "tif",
+    "tags": ["肿瘤细胞"],
+    "published": true
+  }]
